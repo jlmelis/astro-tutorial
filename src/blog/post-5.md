@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: RSS Test
 author: Astro Learner
 description: "Testing rss feed"
